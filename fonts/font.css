@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "ruantang";
+  src: url("/fonts/HYZhengYuan-55W.ttf") format("truetype");
+  font-display: swap;
+  /* font-weight: normal;
+  font-style: normal; */
+}
